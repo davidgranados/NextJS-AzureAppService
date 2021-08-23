@@ -3,5 +3,6 @@
     "appService.zipIgnorePattern": [
         "node_modules{,/**}",
         ".vscode{,/**}"
-    ]
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/7f69344b-c69a-45ab-833b-9446b11c4fb0/resourceGroups/nextjs-test/providers/Microsoft.Web/sites/nextjs-app-test"
 }
